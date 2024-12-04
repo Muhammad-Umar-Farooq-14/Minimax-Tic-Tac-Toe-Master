@@ -1,0 +1,2 @@
+# Minimax-Tic-Tac-Toe-Master
+ Developed an advanced Tic Tac Toe game using the Minimax algorithm to create an unbeatable AI opponent. Key features include:  Minimax algorithm for optimal AI moves. Interactive 3x3 grid for player vs. AI or player vs. player. Win, draw, and invalid move detection. Modular and efficient code leveraging recursion, game trees, and game theory principles. Showcases advanced C++ concepts like recursive functions, arrays, and algorithms for creating a challenging and engaging experience.
